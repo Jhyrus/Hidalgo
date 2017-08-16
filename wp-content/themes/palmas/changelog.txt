@@ -1,0 +1,11 @@
+** Palmas Changelog **
+
+June 22 2016 - 1.0.1
+====================================================
+- Live Customizer Issue Fixed
+- Updated Screenshot
+
+March 30 2016 - 1.0.0
+====================================================
+- Theme released
+

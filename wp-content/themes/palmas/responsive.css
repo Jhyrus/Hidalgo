@@ -1,0 +1,214 @@
+
+/*----------------------------------------------- */
+@media only screen and (min-width: 320px) {
+    .header-right .searchform{
+    display: none;
+    }
+   .header-right .menu-btn {
+        display: block
+    }
+}
+    
+/* =Screen wider than 480
+----------------------------------------------- */
+@media only screen and (min-width: 520px) {
+    
+
+    h1, .h1, h2, .h2 {
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 1.4em;
+        text-transform: uppercase;
+        text-shadow: none;
+        margin-bottom: 10px;
+    }
+
+    #primary{
+        margin-left:0;
+        margin-right:0;
+
+    }
+   
+    .hentry {
+        box-sizing: border-box;
+        float:left;
+        margin-bottom: 35px;
+        width:50%;
+    }
+    .hentry:nth-child( 2n ) {
+        clear: left;
+        padding-right: 15px
+    }
+    .hentry:nth-child( 2n+3 ) {
+        padding-left: 15px
+    }
+    .first-post{
+        float: left;
+        width: 100%
+    }
+    
+.one-column .hentry .home-thumb{
+	width:33.333%;
+	float:left;
+	padding-right:20px;
+	position:absolute;
+	left:0;
+	top:30px;
+}
+.one-column .hentry:nth-child(1) .home-thumb{
+	top:0;
+}
+.one-column .hentry > header,
+.one-column .hentry > .entry-summary{
+	padding-left:33.333%;
+	margin-left:10px;
+}
+.one-column .hentry > header.no-thumb,
+.one-column .hentry > .no-thumb{
+	padding-left:0;
+	margin-left:0;
+}
+
+
+/* =Screen wider than 320
+----------------------------------------------- */
+@media only screen and (min-width: 720px) {
+     .menu-btn{
+        display: none !important;
+    }
+#masthead hgroup.logo img{
+	max-width:none;
+}
+    .header-right .searchform{
+    display: block;
+    }
+   
+#sidebar-top{
+	float:right;
+	text-align:right;
+	width:60%;
+	margin-top:30px;
+}
+#sidebar-top .widget{
+	margin-bottom:0;
+}
+
+.single .post > .entry-content, .single .post > footer{
+}
+
+.single .post .related-box{
+        margin: 0;
+    padding: 20px 0;
+     border-top: 1px solid #ddd;
+}
+
+.gallery-columns-2 .gallery-item{
+	max-width:50%;
+}
+.gallery-columns-3 .gallery-item{
+	max-width:33.333%;
+}
+.gallery-columns-4 .gallery-item{
+	max-width:25%;
+}
+.gallery-columns-5 .gallery-item{
+	max-width:20%;
+}
+.gallery-columns-6 .gallery-item{
+	max-width:16.666%;
+}
+.gallery img {
+	border: 0px solid #cfcfcf;
+}
+.gallery .gallery-caption {
+	margin-left: 0;
+}
+#comments .commentlist, #commentform{
+}
+
+#featured-slider .flex-direction-nav a:before {
+	font-size:48px;
+	top:-20px;
+}
+
+
+}
+
+/* =Screen wider than 1024
+----------------------------------------------- */
+
+@media only screen and (min-width: 960px) {
+
+    h1, .h1 { 
+        text-transform: uppercase;
+        line-height: 1.167em;
+        margin-bottom:10px;
+        color: #333;
+        font-size: 22px;
+    }
+
+    #primary{
+        float:left;
+        width:65.8%;
+    }
+    .group-blog #primary {
+        float: right
+    }
+    .group-blog #secondary {
+        float: left
+    }
+    #primary.full-width{
+        width:auto;
+        margin-right:-330px;
+    }
+    #secondary{
+        width:31.62%;
+        float:right;
+    }
+    .left-sidebar .full-width#primary{
+        width:auto;
+        margin-left:-330px;
+        margin-right:0;
+    }
+  
+}
+
+/* =Screen wider than 1024
+----------------------------------------------- */
+
+@media only screen and (min-width: 1200px) {
+    #popular-articles ul li {
+        display: inline-block;
+        list-style: none;
+        width: 22.3%;
+    }   
+}
+
+@media only screen and (min-width: 500px) {
+    #popular-articles ul li {
+        display: inline-block;
+        float: left;
+        list-style: outside none none;
+        margin-right: 3%;
+        width: 48.5%;
+    }
+    #popular-articles ul li:nth-child(2n) {
+        margin-right: 0
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    #popular-articles ul li {
+        display: inline-block;
+        float: left;
+        list-style: outside none none;
+        margin-right: 3%;
+        width: 22.3%;
+    }
+    #popular-articles ul li:nth-child(2n) {
+        margin-right: 3%
+    }
+    #popular-articles ul li:last-child {
+        margin-right: 0
+    }
+}

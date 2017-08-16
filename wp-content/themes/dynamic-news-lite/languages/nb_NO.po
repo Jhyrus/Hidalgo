@@ -1,0 +1,618 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamic News Lite\n"
+"Report-Msgid-Bugs-To: https://themezee.com/\n"
+"POT-Creation-Date: 2015-08-31 19:59+0100\n"
+"PO-Revision-Date: 2015-11-11 16:23+0100\n"
+"Last-Translator: \n"
+"Language-Team: ThemeZee <support@themezee.com>\n"
+"Language: nb_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:9
+msgid "404: Page not found"
+msgstr "404: Siden ble ikke funnet"
+
+#: 404.php:12
+msgid ""
+"It looks like nothing was found at this location. Maybe try a search or one "
+"of the links below?"
+msgstr ""
+"Dessverre fant vi ikke veien til det du lette etter. Kanskje et søk eller "
+"noen av lenkene kan hjelpe deg med å finne fram?"
+
+#: comments.php:11
+msgid "Enter password to view comments."
+msgstr "Skriv inn passord for å lese kommentarer."
+
+#: comments.php:21 inc/template-tags.php:90
+#: inc/widgets/widget-category-posts-boxed.php:190
+#: inc/widgets/widget-category-posts-columns.php:221
+#: inc/widgets/widget-category-posts-grid.php:218
+msgid "One comment"
+msgstr "Én kommentar"
+
+#: comments.php:21 inc/template-tags.php:90
+#: inc/widgets/widget-category-posts-boxed.php:190
+#: inc/widgets/widget-category-posts-columns.php:221
+#: inc/widgets/widget-category-posts-grid.php:218
+#, php-format
+msgid "% comments"
+msgstr "% kommentarer"
+
+#: content-excerpt.php:12 content-search.php:8 content.php:11
+#: inc/widgets/widget-category-posts-single.php:130
+msgid "Read more"
+msgstr "Les mer"
+
+#: featured-content-slider.php:14
+msgid ""
+"There is no featured content to be displayed in the slider. To set up the "
+"slider, go to Appearance &#8594; Customize &#8594; Theme Options, and add a "
+"featured tag in the Post Slider section. The slideshow displays all your "
+"posts which are tagged with that keyword."
+msgstr ""
+"Det er ikke definert noe utvalgt innhold for visning i karusellen. For å "
+"sette opp innholdskarusellen, gå til Utseende &#8594; Tilpass &#8594; Theme "
+"Options, og legg til en utvalgstag for karusellen. Karusellen vil vise alle "
+"innlegg som er tagget med det valgte nøkkelordet."
+
+#: featured-content-slider.php:48
+msgid "Read more &raquo;"
+msgstr "Les mer &raquo;"
+
+#: functions.php:39
+msgid "Menu"
+msgstr "Meny"
+
+#: functions.php:135
+msgid "Main Navigation"
+msgstr "Hovednavigasjon"
+
+#: functions.php:136
+msgid "Footer Navigation"
+msgstr "Bunn-navigasjon"
+
+#: functions.php:139
+msgid "Social Icons"
+msgstr "Sosiale ikoner"
+
+#: functions.php:179 sidebar.php:14
+msgid "Sidebar"
+msgstr "Sidekolonne"
+
+#: functions.php:181
+msgid ""
+"Appears on posts and pages except Magazine Homepage and Fullwidth template."
+msgstr ""
+"Vises på innlegg og sider med unntak av Magasin forside og Full bredde-malen."
+
+#: functions.php:190
+msgid "Magazine Homepage"
+msgstr "Magasin forside"
+
+#: functions.php:192
+msgid ""
+"Appears on Magazine Homepage template only. You can use the Category Posts "
+"widgets here."
+msgstr ""
+"Vises bare på Magasin forside-malen. Du kan se widgetene for kategori-"
+"utlisting her."
+
+#: functions.php:288
+msgid "Pingback:"
+msgstr "Lenkevarsling:"
+
+#: functions.php:289 functions.php:305
+msgid "(Edit)"
+msgstr "(Rediger)"
+
+#: functions.php:315
+msgid "Your comment is awaiting moderation."
+msgstr "Kommentaren din ligger på vent for vurdering."
+
+#: search.php:13
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Søkeresultat for %s"
+
+#: search.php:37
+msgid "No matches"
+msgstr "Ingen treff"
+
+#: search.php:41
+msgid ""
+"Please try again, or use the navigation menus to find what you search for."
+msgstr "Prøv igjen, eller bruk menyene for å finne det du leter etter."
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Søk etter:"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Søk &hellip;"
+
+#: sidebar.php:16
+msgid ""
+"Please go to Appearance &#8594; Widgets and add some widgets to your sidebar."
+msgstr ""
+"Gå til Utseende &#8594; Widgeter og legg til ønsket widget til sidekolonnen."
+
+#: template-frontpage.php:39
+msgid ""
+"Please go to Appearance &#8594; Widgets and add at least one widget to the "
+"\"Magazine Homepage\" widget area. You can use the Category Posts widgets to "
+"set up the theme like the demo website."
+msgstr ""
+"Gå til Utseende &#8594; Widgeter og legg til minst én widget til \"Magasin "
+"forside»-området. Du kan bruke kategoriutlisting-widgeten for å sette opp "
+"temaet som en demonettside."
+
+#: inc/featured-content.php:368
+msgid "Tag name"
+msgstr "Tag navn"
+
+#: inc/featured-content.php:374
+msgid "Hide tag from displaying in post meta and tag clouds."
+msgstr "Skjul tag fra visning i innleggsmetadata og i tagskyer."
+
+#: inc/featured-content.php:381
+msgid "Display featured posts in latest blog post listing."
+msgstr "Vis utvalgte innlegg i utlisting av siste bloginnlegg."
+
+#: inc/featured-content.php:388
+msgid "Number of Posts"
+msgstr "Antall innlegg"
+
+#: inc/template-tags.php:79
+#, php-format
+msgid "View all posts by %s"
+msgstr "Vis alle innlegg fra %s"
+
+#: inc/template-tags.php:90 inc/widgets/widget-category-posts-boxed.php:190
+#: inc/widgets/widget-category-posts-columns.php:221
+#: inc/widgets/widget-category-posts-grid.php:218
+msgid "Leave a comment"
+msgstr "Legg igjen en kommentar"
+
+#: inc/template-tags.php:96
+msgid "Edit Post"
+msgstr "Rediger innlegg"
+
+#: inc/template-tags.php:174
+#, php-format
+msgid "tagged with %1$s"
+msgstr "tagget med %1$s"
+
+#: inc/template-tags.php:230
+#, php-format
+msgid "Powered by %1$s and %2$s."
+msgstr "Drevet av %1$s og %2$s."
+
+#: inc/template-tags.php:264
+msgid ""
+"Please go to Appearance &#8594; Menus and create a new custom menu with "
+"custom links to all your social networks. Then click on \"Manage Locations\" "
+"tab and assign your created menu to the \"Social Icons\" location."
+msgstr ""
+"Gå til Utseende &#8594; Menyer og lag en egendefinert meny med egendefinerte "
+"lenker til alle dine kontoer i sosiale medier. Deretter går du til \"Styr "
+"plasseringer»-fanen og setter den menyen du akkurat lagde til plasseringen "
+"\"Sosiale ikoner»."
+
+#: inc/theme-info.php:18 inc/theme-info.php:38
+#, php-format
+msgid "Welcome to %1$s %2$s"
+msgstr "Velkommen til %1$s %2$s"
+
+#: inc/theme-info.php:19
+msgid "Theme Info"
+msgstr "Temainfo"
+
+#: inc/theme-info.php:44
+msgid "Important Links:"
+msgstr "Viktige lenker"
+
+#: inc/theme-info.php:45
+msgid "Theme Page"
+msgstr "Temaside"
+
+#: inc/theme-info.php:46
+msgid "Changelog"
+msgstr "Oppdateringer"
+
+#: inc/theme-info.php:47
+msgid "Theme Demo"
+msgstr "Temademo"
+
+#: inc/theme-info.php:48 inc/theme-info.php:63
+msgid "Theme Documentation"
+msgstr "Temadokumentasjon"
+
+#: inc/theme-info.php:49
+msgid "Rate this theme"
+msgstr "Gi temaet karakter"
+
+#: inc/theme-info.php:60
+#, php-format
+msgid "Getting Started with %s"
+msgstr "Kom i gang med %s"
+
+#: inc/theme-info.php:66
+msgid ""
+"You need help to setup and configure this theme? We got you covered with an "
+"extensive theme documentation on our website."
+msgstr ""
+"Trenger du hjelp til å sette opp og konfigurere dette temaet? Du finner mye "
+"god hjelp i den omfattende dokumentasjonen for temaet på våre nettsider."
+
+#: inc/theme-info.php:70
+#, php-format
+msgid "View %s Documentation"
+msgstr "Vis %s dokumentasjon"
+
+#: inc/theme-info.php:76 inc/customizer/customizer.php:29
+msgid "Theme Options"
+msgstr "Temavalg"
+
+#: inc/theme-info.php:79
+#, php-format
+msgid ""
+"%s makes use of the Customizer for all theme settings. Click on \"Customize "
+"Theme\" to open the Customizer now."
+msgstr ""
+"%s bruker Tilpass-menyen for alle temainnstillinger. Klikk på \"Tilpass tema"
+"\" for å åpne Tilpass-menyen nå."
+
+#: inc/theme-info.php:82
+msgid "Customize Theme"
+msgstr "Tilpass tema"
+
+#: inc/theme-info.php:87 inc/customizer/sections/customizer-upgrade.php:14
+msgid "Pro Version"
+msgstr "Pro-versjon"
+
+#: inc/theme-info.php:90
+msgid ""
+"You need more features? Purchase the Pro Version to get additional features "
+"and advanced customization options."
+msgstr ""
+"Trenger du flere funksjoner? Kjøp Pro-versjonen for å få flere funksjoner og "
+"avanserte tilpasningsvalg."
+
+#: inc/theme-info.php:94 inc/customizer/sections/customizer-upgrade.php:62
+#, php-format
+msgid "Learn more about %s Pro"
+msgstr "Finn ut mer om %s Pro"
+
+#: inc/theme-info.php:115
+#, php-format
+msgid "%1$s is proudly brought to you by %2$s. If you like this theme, %3$s :)"
+msgstr "%1$s tilbys av %2$s. Hvis du liker dette temaet, %3$s :)"
+
+#: inc/theme-info.php:118
+msgid "rate it"
+msgstr "gi det en karakter"
+
+#: inc/customizer/customizer.php:39
+msgid "Background"
+msgstr ""
+
+#: inc/customizer/customizer.php:50
+msgid "Display Tagline below site title."
+msgstr "Vis slagord under tittelen på nettstedet."
+
+#: inc/customizer/sections/customizer-general.php:14
+msgid "General Settings"
+msgstr "Generelle innstillinger"
+
+#: inc/customizer/sections/customizer-general.php:29
+msgid "Theme Width"
+msgstr "Temaets bredde"
+
+#: inc/customizer/sections/customizer-general.php:35
+msgid "Boxed Layout"
+msgstr "Boks-layout"
+
+#: inc/customizer/sections/customizer-general.php:36
+msgid "Wide Layout (Fullwidth)"
+msgstr "Bred-layout (full bredde)"
+
+#: inc/customizer/sections/customizer-general.php:49
+msgid "Theme Layout"
+msgstr "Tema-layout"
+
+#: inc/customizer/sections/customizer-general.php:55
+msgid "Left Sidebar"
+msgstr "Venstre sidekolonne"
+
+#: inc/customizer/sections/customizer-general.php:56
+msgid "Right Sidebar"
+msgstr "Høyre sidekolonne"
+
+#: inc/customizer/sections/customizer-general.php:71
+msgid "Default Fonts"
+msgstr "Standard fonter"
+
+#: inc/customizer/sections/customizer-general.php:88
+msgid "Deactivate Google Fonts in case your language is not compatible."
+msgstr "Skru av Google Fonts i tilfelle språket ditt ikke støttes."
+
+#: inc/customizer/sections/customizer-header.php:14
+msgid "Header Settings"
+msgstr "Topp-innstillinger"
+
+#: inc/customizer/sections/customizer-header.php:30
+msgid "Header Content"
+msgstr "Topp-innhold"
+
+#: inc/customizer/sections/customizer-header.php:46
+msgid ""
+"The Header Content will be displayed on the right hand side of the header "
+"area."
+msgstr "Topp-innholdet vises på høyre side av toppen."
+
+#: inc/customizer/sections/customizer-header.php:63
+msgid "Display search field on header area"
+msgstr "Vis søkefelt i topp-området."
+
+#: inc/customizer/sections/customizer-header.php:79
+msgid "Display Social Icons on header area"
+msgstr "Vis ikoner for sosiale medier i topp-området."
+
+#: inc/customizer/sections/customizer-header.php:95
+msgid "Header Text Line"
+msgstr "Topp-tekstlinje"
+
+#: inc/customizer/sections/customizer-post.php:14
+msgid "Post Settings"
+msgstr "Innleggsinnstillinger"
+
+#: inc/customizer/sections/customizer-post.php:29
+msgid "Post length on archives"
+msgstr "Lengde på innlegg i arkiv-visning"
+
+#: inc/customizer/sections/customizer-post.php:35
+msgid "Show full posts"
+msgstr "Vis hele innleggene"
+
+#: inc/customizer/sections/customizer-post.php:36
+msgid "Show post excerpts"
+msgstr "Vis utdrag"
+
+#: inc/customizer/sections/customizer-post.php:50
+msgid "Excerpt Length"
+msgstr "Utdragslengde"
+
+#: inc/customizer/sections/customizer-post.php:69
+msgid "Text after Excerpts"
+msgstr "Tekst etter utdrag"
+
+#: inc/customizer/sections/customizer-post.php:84
+msgid "Display [...] after excerpts"
+msgstr "Vis […] etter udragene"
+
+#: inc/customizer/sections/customizer-post.php:102
+msgid "Post Images"
+msgstr "Bilder i innlegg"
+
+#: inc/customizer/sections/customizer-post.php:117
+msgid "Display featured images on archive pages"
+msgstr "Vis utvalgt bilde på arkivsidene"
+
+#: inc/customizer/sections/customizer-post.php:133
+msgid "Display featured images on single posts"
+msgstr "Vis utvalgt bilde i enkeltinnlegg"
+
+#: inc/customizer/sections/customizer-post.php:151
+msgid "Post Meta"
+msgstr "Innleggsmetadata"
+
+#: inc/customizer/sections/customizer-post.php:166
+msgid "Display post date"
+msgstr "Vis innleggsdato"
+
+#: inc/customizer/sections/customizer-post.php:181
+msgid "Display post author"
+msgstr "Vis info om innleggets forfatter"
+
+#: inc/customizer/sections/customizer-post.php:196
+msgid "Display post categories"
+msgstr "Vis innleggetskategori"
+
+#: inc/customizer/sections/customizer-post.php:211
+msgid "Display post tags"
+msgstr "Vis innleggstagger"
+
+#: inc/customizer/sections/customizer-slider.php:14
+msgid "Post Slider"
+msgstr "Innleggskarusell"
+
+#: inc/customizer/sections/customizer-slider.php:30
+msgid "Activate Post Slider"
+msgstr "Skru på innleggskarusell"
+
+#: inc/customizer/sections/customizer-slider.php:45
+msgid "Show Slider on Magazine Homepage"
+msgstr "Vis karusell på Magasin forside"
+
+#: inc/customizer/sections/customizer-slider.php:60
+msgid "Show Slider on posts page"
+msgstr "Vis karusell på innleggsside"
+
+#: inc/customizer/sections/customizer-slider.php:78
+msgid "Select Featured Posts"
+msgstr "Velg utvalgte innlegg"
+
+#: inc/customizer/sections/customizer-slider.php:95
+msgid ""
+"The slideshow displays all your featured posts. You can easily feature posts "
+"by a tag of your choice."
+msgstr ""
+"Karusellen viser alle utvalgte innlegg. Du kan enkelt sette et utvalg ved "
+"hjelp av en tag du selv definerer."
+
+#: inc/customizer/sections/customizer-slider.php:113
+msgid "Slider Animation"
+msgstr "Karusellanimasjon"
+
+#: inc/customizer/sections/customizer-slider.php:120
+msgid "Slide Effect"
+msgstr "Karuselleffekt"
+
+#: inc/customizer/sections/customizer-slider.php:121
+msgid "Fade Effect"
+msgstr "Uttoningseffekt"
+
+#: inc/customizer/sections/customizer-upgrade.php:30
+msgid "You need more features?"
+msgstr "Trenger du flere funksjoner?"
+
+#: inc/customizer/sections/customizer-upgrade.php:46
+msgid ""
+"Purchase the Pro Version to get additional features and advanced "
+"customization options."
+msgstr ""
+"Kjøp Pro-versjonen for å få flere funksjoner og avanserte "
+"tilpasningsmuligheter."
+
+#: inc/widgets/widget-category-posts-boxed.php:11
+msgid ""
+"Displays your posts from a selected category in a boxed layout. Please use "
+"this widget ONLY in the Magazine Homepage widget area."
+msgstr ""
+"Viser innlegg fra en utvalgt kategori i en boks-layout. Bruk denne widgeten "
+"BARE i Magasin forside-området."
+
+#: inc/widgets/widget-category-posts-boxed.php:13
+#, php-format
+msgid "Category Posts: Boxed (%s)"
+msgstr "Kategoriutlisting: Boks (%s)"
+
+#: inc/widgets/widget-category-posts-boxed.php:219
+#: inc/widgets/widget-category-posts-columns.php:245
+#: inc/widgets/widget-category-posts-grid.php:247
+#: inc/widgets/widget-category-posts-single.php:167
+msgid "View all posts"
+msgstr "Vis alle innlegg"
+
+#: inc/widgets/widget-category-posts-boxed.php:231
+#: inc/widgets/widget-category-posts-columns.php:259
+#: inc/widgets/widget-category-posts-grid.php:259
+#: inc/widgets/widget-category-posts-single.php:179
+#, php-format
+msgid "View all posts from category %s"
+msgstr "Vis alle innlegg fra kategorien %s"
+
+#: inc/widgets/widget-category-posts-boxed.php:272
+#: inc/widgets/widget-category-posts-columns.php:297
+#: inc/widgets/widget-category-posts-grid.php:302
+#: inc/widgets/widget-category-posts-single.php:221
+msgid "Title:"
+msgstr "Tittel:"
+
+#: inc/widgets/widget-category-posts-boxed.php:278
+#: inc/widgets/widget-category-posts-grid.php:308
+#: inc/widgets/widget-category-posts-single.php:227
+msgid "Category:"
+msgstr "Kategori:"
+
+#: inc/widgets/widget-category-posts-boxed.php:281
+#: inc/widgets/widget-category-posts-columns.php:306
+#: inc/widgets/widget-category-posts-columns.php:321
+#: inc/widgets/widget-category-posts-grid.php:311
+#: inc/widgets/widget-category-posts-single.php:230
+msgid "All Categories"
+msgstr "Alle kategorier"
+
+#: inc/widgets/widget-category-posts-boxed.php:295
+#: inc/widgets/widget-category-posts-grid.php:339
+#: inc/widgets/widget-category-posts-single.php:250
+msgid "Link Widget Title to Category Archive page"
+msgstr "Lenk widget-tittel til arkivsiden for kategorien"
+
+#: inc/widgets/widget-category-posts-columns.php:11
+msgid ""
+"Displays your posts from two selected categories. Please use this widget "
+"ONLY in the Magazine Homepage widget area."
+msgstr ""
+"Viser dine innlegg fra to valgte kategorier. Bruk denne widgeten BARE på "
+"widgetområdet for Magasin forside."
+
+#: inc/widgets/widget-category-posts-columns.php:13
+#, php-format
+msgid "Category Posts: 2 Columns (%s)"
+msgstr "Kategoriutlisting: 2 kolonner (%s)"
+
+#: inc/widgets/widget-category-posts-columns.php:246
+msgid "Latest Posts"
+msgstr "Siste innlegg"
+
+#: inc/widgets/widget-category-posts-columns.php:303
+msgid "Left Category:"
+msgstr "Venstre kategori"
+
+#: inc/widgets/widget-category-posts-columns.php:318
+msgid "Right Category:"
+msgstr "Høyre kategori"
+
+#: inc/widgets/widget-category-posts-columns.php:333
+#: inc/widgets/widget-category-posts-grid.php:323
+#: inc/widgets/widget-category-posts-single.php:242
+msgid "Number of posts:"
+msgstr "Antall innlegg:"
+
+#: inc/widgets/widget-category-posts-columns.php:341
+msgid "Highlight first post (big image + excerpt)"
+msgstr "Fremhev det første innlegget (stort bilde + utdrag fra teksten)"
+
+#: inc/widgets/widget-category-posts-columns.php:348
+msgid "Display Category Titles"
+msgstr "Vis kategori-titlene"
+
+#: inc/widgets/widget-category-posts-grid.php:11
+msgid ""
+"Displays your posts from a selected category in a grid layout. Please use "
+"this widget ONLY in the Magazine Homepage widget area."
+msgstr ""
+"Viser dine innlegg fra en valgt kategori i rutenett-layout. Bruk BARE denne "
+"widgeten i widgetområdet for Magasin forside."
+
+#: inc/widgets/widget-category-posts-grid.php:13
+#, php-format
+msgid "Category Posts: Grid (%s)"
+msgstr "Kategoriutlisting: Rutenett (%s)"
+
+#: inc/widgets/widget-category-posts-grid.php:325
+msgid "Please chose an even number (2, 4, 6, 8)."
+msgstr "Velg et partall (2, 4, 6, 8)."
+
+#: inc/widgets/widget-category-posts-grid.php:332
+msgid "Display as small posts grid with thumbnails"
+msgstr "Vis innlegg i et lite rutenett med små bilder"
+
+#: inc/widgets/widget-category-posts-single.php:11
+msgid ""
+"Displays a single post from a selected category. Please use this widget ONLY "
+"in the Magazine Homepage widget area."
+msgstr ""
+"Viser ett enkelt innlegg fra en valgt kategori. Bruk BARE denne widgeten i "
+"området for Magasin forside."
+
+#: inc/widgets/widget-category-posts-single.php:13
+#, php-format
+msgid "Category Posts: Single (%s)"
+msgstr "Kategoriutlisting: Enkeltinnlegg (%s)"

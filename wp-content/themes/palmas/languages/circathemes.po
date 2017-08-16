@@ -1,0 +1,576 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: inc/custom-metaboxes.php:35
+msgid " Featured video"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:286
+msgid " of "
+msgstr ""
+
+#. Text in function
+#: content.php:26
+#: content-single-video.php:21
+#: inc/template-tags.php:412
+#: content-single.php:21
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:404
+msgid "%1$s "
+msgstr ""
+
+#. Text in function
+#: content.php:18
+msgid "%1$s <span class=\"sep\">/</span> "
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:97
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:88
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#. Text in function
+#: comments.php:60
+msgid "&larr; Older Comments"
+msgstr ""
+
+#. Text in function
+#: comments.php:74
+msgid "(*) Required, Your email will not be published"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:78
+#: inc/template-tags.php:102
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: content.php:18
+#: content-single-video.php:10
+#: inc/template-tags.php:404
+#: content-single.php:10
+msgid ", "
+msgstr ""
+
+#. Text in function
+#: content.php:26
+#: content-single-video.php:21
+#: inc/template-tags.php:412
+#: content-single.php:21
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: 404.php:12
+msgid "404 Error page not found"
+msgstr ""
+
+#. Text in function
+#: content-single-video.php:10
+#: content-single.php:10
+msgid "<span class=\"inline-icon-ribbon\">%1$s</span>"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:49
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:294
+msgid "<time class=\"entry-date\" datetime=\"%3$s\">%4$s</time>"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/ad125.php:86
+msgid "Ads 125, To manage the advertisement, please use the Link Manager (Dashboard->Links) don't forget to set the image field with 125 px width image link, see documentation for more information."
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:18
+#: archive.php:20
+#: inc/widgets/tabs.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: archive-page.php:49
+msgid "Archives by Month:"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:203
+msgid "Cannot Retrieved a Related Posts Yet!"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: archive.php:20
+msgid "Category: %s"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:93
+msgid "Choose a .json file to upload, then click Upload file and import."
+msgstr ""
+
+#. Text in echo
+#: footer.php:21
+msgid "CircaThemes"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/ad125.php:86
+msgid "CircaThemes - Ads 125"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/flickr.php:1
+msgid "CircaThemes - Flickr"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/video.php:1
+msgid "CircaThemes - Latest video"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent_comments.php:1
+msgid "CircaThemes - Recent Comments"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent_posts.php:1
+msgid "CircaThemes - Recent Posts"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "CircaThemes - Tabs"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/twitter.php:1
+msgid "CircaThemes - Twitter"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:314
+msgid "Client"
+msgstr ""
+
+#. Text in echo
+#: comments.php:59
+msgid "Comment navigation"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: comments.php:71
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in function
+#: content.php:27
+#: content-single-video.php:22
+#: image.php:32
+#: content-single.php:22
+msgid "Edit"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:85
+msgid "Export and Import Setting"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:99
+msgid "Export current setting"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/twitter.php:24
+msgid "Follow me"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in echo
+#: search.php:30
+#: archive.php:80
+#: index.php:58
+msgid "Grid"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Header Sidebar"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:393
+msgid "Headlines"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:426
+msgid "Home"
+msgstr ""
+
+#. Text in function
+#: inc/export-import-setting.php:107
+msgid "Import setting success"
+msgstr ""
+
+#. Text in echo
+#: inc/custom-metaboxes.php:31
+msgid "Insert video URL for Youtube or Vimeo. eg: http://www.youtube.com/watch?v=wq7ftOZBy0E"
+msgstr ""
+
+#. Text in echo
+#: no-results.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. Text in echo
+#: archive-page.php:36
+msgid "Last 30 Posts"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent_comments.php:1
+#: inc/widgets/recent_comments.php:48
+msgid "Latest Comments"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/flickr.php:1
+#: inc/widgets/flickr.php:28
+msgid "Latest Pictures"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/twitter.php:1
+#: inc/widgets/twitter.php:38
+msgid "Latest Tweet"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/video.php:1
+#: inc/widgets/video.php:55
+msgid "Latest Videos"
+msgstr ""
+
+#. Text in function
+#: comments.php:74
+#: content.php:26
+#: content-single-video.php:21
+#: inc/template-tags.php:412
+#: content-single.php:21
+msgid "Leave a comment"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:78
+msgid "Link ID"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:77
+msgid "Link rating"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:76
+msgid "Link title"
+msgstr ""
+
+#. Text in echo
+#: search.php:31
+#: archive.php:81
+#: index.php:59
+msgid "List"
+msgstr ""
+
+#. Text in echo
+#: sidebar.php:25
+msgid "Meta"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/flickr.php:27
+msgid "More Photos"
+msgstr ""
+
+#. Text in echo
+#: inc/custom-metaboxes.php:33
+msgid "NOTE: Video format support Youtube and Vimeo."
+msgstr ""
+
+#. Text in function
+#: comments.php:61
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:53
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in echo
+#: no-results.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in function
+#: inc/export-import-setting.php:107
+msgid "Nothing imported"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:83
+msgid "Number of links to show:"
+msgstr ""
+
+#. Text in function
+#: inc/template-tags.php:426
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: inc/extras.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "Pages"
+msgstr ""
+
+#. Text in function
+#: content-single-video.php:32
+#: image.php:89
+#: content-page.php:21
+#: content-single.php:36
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: content.php:30
+#: content.php:38
+#: inc/template-tags.php:198
+msgid "Permalink to %s"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:78
+msgid "Pingback:"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "Popular"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:39
+msgid "Post navigation"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Primary Menu"
+msgstr ""
+
+#. Text in function
+#: image.php:19
+msgid "Published <span class=\"entry-date\"><time class=\"entry-date\" datetime=\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:79
+msgid "Random"
+msgstr ""
+
+#. Text in echo
+#: content.php:38
+msgid "Read More &rarr;"
+msgstr ""
+
+#. Text in function
+#: no-results.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "Recent"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/recent_posts.php:1
+#: inc/widgets/recent_posts.php:67
+#: index.php:32
+msgid "Recent Posts"
+msgstr ""
+
+#. Text in echo
+#: content-single-video.php:36
+#: content-single.php:40
+msgid "Related Posts"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:88
+msgid "Reset setting to default"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:10
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#. Text in function
+#: search.php:12
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:11
+msgid "Search here..."
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Secondary Menu"
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:64
+msgid "Select Link Category:"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Sidebar"
+msgstr ""
+
+#. Text in echo
+#: header.php:44
+msgid "Skip to content"
+msgstr ""
+
+#. Text in echo
+#: no-results.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/ad125.php:74
+msgid "Sort by:"
+msgstr ""
+
+#. Text in function
+#: inc/widgets/tabs.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:96
+msgid "This operation will replace the current setting to the uploaded one. Please note that once you import there is no undo, it would be better if you backup your current setting first by exporting it."
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:89
+msgid "This operation will reset all the setting to the default state. Please note that once you reset there is no undo, it would be better if you backup your current setting first by exporting it."
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:100
+msgid "This will download the setting in JSON format"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:92
+msgid "Upload a valid .json file and we will import the theme settings into this theme"
+msgstr ""
+
+#. Text in echo
+#: inc/export-import-setting.php:95
+msgid "Upload file and import"
+msgstr ""
+
+#. Text in echo
+#: inc/custom-metaboxes.php:29
+msgid "Video URL"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:322
+msgid "Visit"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:318
+msgid "Year"
+msgstr ""
+
+#. Text in function
+#: comments.php:74
+msgid "Your Comment Here..."
+msgstr ""
+
+#. Text in function
+#: comments.php:74
+msgid "Your Email"
+msgstr ""
+
+#. Text in function
+#: comments.php:74
+msgid "Your Name"
+msgstr ""
+
+#. Text in function
+#: comments.php:74
+msgid "Your Website"
+msgstr ""
+
+#. Text in echo
+#: inc/template-tags.php:91
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in echo
+#: inc/widgets/recent_comments.php:39
+msgid "commented on"
+msgstr ""
+
+#. Text in echo
+#: footer.php:21
+msgid "is powered by"
+msgstr ""

@@ -1,0 +1,1003 @@
+# Copyright (C) 2017 MachoThemes
+# This file is distributed under the GNU General Public License version 3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: NewsMag 2.2.0\n"
+"Report-Msgid-Bugs-To: https://www.machothemes.com/\n"
+"POT-Creation-Date: 2017-01-09 13:45:57+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Macho Themes <office@machothemes.com>\n"
+"Language-Team: Macho Themes <office@machothemes.com>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try a better search?"
+msgstr ""
+
+#: archive.php:25
+msgid "Day: %s"
+msgstr ""
+
+#: archive.php:27
+msgid "Month: %s"
+msgstr ""
+
+#: archive.php:29
+msgid "Year: %s"
+msgstr ""
+
+#: archive.php:33
+msgid "Tags archive: "
+msgstr ""
+
+#: comments.php:29
+msgid "Comments"
+msgstr ""
+
+#: comments.php:35 comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:39 comments.php:62
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:40 comments.php:63
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:76
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:46
+msgid ""
+"Created by <a href=\"https://www.machothemes.com\" rel=\"dofollow\" "
+"title=\"Professional WordPress Themes\">Macho Themes</a>"
+msgstr ""
+
+#: header.php:107
+msgid "Add a menu"
+msgstr ""
+
+#: header.php:129
+msgid "Search for:"
+msgstr ""
+
+#: header.php:133
+msgid "Type the search term"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:53
+#: inc/admin/welcome-screen/sections/recommended-plugins.php:25
+#: inc/admin/welcome-screen/sections/recommended-plugins.php:40
+msgid "Install"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:57
+#: inc/admin/welcome-screen/sections/recommended-plugins.php:29
+msgid "Activate"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:61
+#: inc/admin/welcome-screen/sections/recommended-plugins.php:33
+msgid "Deactivate"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/actions-required.php:81
+#: inc/admin/welcome-screen/welcome-screen.php:149
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:11
+msgid "Step 1 - Implement recommended actions"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:12
+msgid ""
+"We've compiled a list of steps for you, to take make sure the experience "
+"you'll have using one of our products is very easy to follow."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:15
+msgid "No recommended actions left to perform"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:19
+msgid "Check recommended actions"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:25
+msgid "Step 2 - Check our documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:26
+msgid ""
+"Even if you're a long-time WordPress user, we still believe you should give "
+"our documentation a very quick Read."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:29
+msgid "Full documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:34
+msgid "Step 3 - Customize everything"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:35
+msgid ""
+"Using the WordPress Customizer you can easily customize every aspect of the "
+"theme."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/getting-started.php:37
+msgid "Go to Customizer"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/recommended-plugins.php:46
+msgid "Recommended"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/recommended-plugins.php:50
+msgid "Version:"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:4
+#: inc/admin/welcome-screen/sections/support.php:9
+msgid "Contact Support"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:6
+msgid ""
+"We offer excellent support through our advanced ticketing system. Make sure "
+"to register your purchase before contacting support!"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:14
+msgid "Documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:16
+msgid ""
+"This is the place to go to reference different aspects of the theme. Our "
+"online documentation is an incredible resource for learning the ins and "
+"outs of using Newsmag."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:19
+msgid "See our full documentation"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:24
+#: inc/admin/welcome-screen/welcome-screen.php:392
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:26
+msgid ""
+"Want to get the gist on the latest theme changes? Just consult our "
+"changelog below to get a taste of the recent fixes and features implemented."
+msgstr ""
+
+#: inc/admin/welcome-screen/sections/support.php:29
+msgid "See changelog"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:99
+#: inc/admin/welcome-screen/welcome-screen.php:101
+msgid "About Newsmag"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:128
+msgid ""
+"Welcome! Thank you for choosing Newsmag! To fully take advantage of the "
+"best our theme can offer please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:130
+msgid "Get started with Newsmag"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:168
+msgid "View Theme Info"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:373
+msgid "Welcome to Newsmag! - Version "
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:376
+msgid ""
+"Newsmag is now installed and ready to use! Get ready to build something "
+"beautiful. We hope you enjoy it! We want to make sure you have the best "
+"experience using Newsmag and that is why we gathered here all the necessary "
+"information for you. We hope you will enjoy using Newsmag, as much as we "
+"enjoy creating great products."
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:383
+msgid "Getting Started"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:385
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:388
+msgid "Recommended Plugins"
+msgstr ""
+
+#: inc/admin/welcome-screen/welcome-screen.php:390
+msgid "Support"
+msgstr ""
+
+#: inc/class-epsilon-typography.php:270
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:143
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:159
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:175
+msgid "Theme default"
+msgstr ""
+
+#: inc/components/breadcrumbs/class-newsmag-breadcrumbs.php:78
+msgid "Home"
+msgstr ""
+
+#: inc/components/breadcrumbs/class-newsmag-breadcrumbs.php:79
+msgid "Tag:"
+msgstr ""
+
+#: inc/components/breadcrumbs/class-newsmag-breadcrumbs.php:80
+msgid "Search:"
+msgstr ""
+
+#: inc/components/breadcrumbs/class-newsmag-breadcrumbs.php:81
+msgid "404 - Page not Found"
+msgstr ""
+
+#: inc/components/breadcrumbs/class-newsmag-breadcrumbs.php:97
+msgid "Home "
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:141
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:157
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:173
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:177
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:180
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:188
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:198
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-typography.php:205
+msgid "Reset to default"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-upsell.php:14
+msgid "Hello"
+msgstr ""
+
+#: inc/customizer/epsilon-framework/control-epsilon-upsell.php:15
+msgid "Pro"
+msgstr ""
+
+#: inc/customizer/register_settings.php:56
+msgid "Blog Archive Header Image"
+msgstr ""
+
+#: inc/customizer/register_settings.php:69
+msgid ""
+"The image logo, if set, will override the text logo. You can not have both "
+"at the same time. A tagline can be displayed under the text logo."
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:11
+msgid "Enable banner"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:25
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:26
+msgid "AdSense"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:28
+msgid "The type of the banner"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:29
+msgid "Select what type of banner you want to use: normal image or adsense script"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:43
+msgid "Banner Image:"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:44
+msgid "Recommended size: 728 x 90"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:57
+msgid "Banner Link:"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:58
+msgid "Add the link for banner image."
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:71
+msgid "AdSense Code:"
+msgstr ""
+
+#: inc/customizer/settings/banners/controls.php:72
+msgid ""
+"Add the code you retrieved from your AdSense account. You only need to "
+"insert the <ins> tag."
+msgstr ""
+
+#: inc/customizer/settings/banners/sections.php:7
+msgid "Banner"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:12
+msgid "Search icon in the menu"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:13
+msgid ""
+"Toggle the display of the search icon and functionality in the main "
+"navigation menu."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:27
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:28
+msgid ""
+"Toggling this to on will make the navigation menu stick to the top of "
+"header when scrolling."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:42
+msgid "Go to top button"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:43
+msgid "Toggle the display of the go to top button."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:56
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:57
+msgid "Two Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:58
+msgid "Three Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:59
+msgid "Four Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:61
+msgid "Footer Columns"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:62
+msgid ""
+"Select the number of sidebars you would like to use in the footer. The "
+"higher the number, the more widgets you will be able to place here."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:72
+msgid "Enable After Footer Section"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:86
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:87
+msgid ""
+"Toggle the copyright area on or off. By setting it on the off position, you "
+"will not be able to display a copyright message in the footer"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:100
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:111
+msgid "Thumbnail in content"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:112
+msgid ""
+"Set this to ON to display the image in the blog post content. Else it will "
+"be shown in the header"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:123
+msgid "Posta meta: Author"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:124
+msgid ""
+"Toggle the display of the author box, at the left side of the post. Will "
+"only display if the author has a description defined."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:136
+msgid "Post Meta: Tags"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:137
+msgid "This will disable the tags zone at the end of the post."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:147
+msgid "Post excerpt length"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:148
+msgid "Minimum is 10, Maximum is 55, Incremented by 5"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:167
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:168
+msgid ""
+"Toggle the display of the breadcrumbs. Affects the whole blog - single "
+"posts as well as the blog archive."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:178
+msgid "Headings"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:180
+#: inc/customizer/settings/general/controls.php:206
+msgid "Note: Current typography controls will only be affecting the blog."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:204
+msgid "Paragraphs"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:226
+msgid "News Ticker"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:227
+#: inc/customizer/settings/general/controls.php:281
+msgid "Related Posts Carousel"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:228
+#: inc/customizer/settings/general/controls.php:282
+msgid "Extra Blog Layouts"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:229
+msgid "More Slider Widget Controls"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:230
+msgid "More Banner Ad areas"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:231
+msgid "Dedicated Support"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:232
+msgid "Theme Updates for 1 year"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:235
+msgid ""
+"Get news ticker functionality with the PRO version of Newsmag. Showcase "
+"your most important news in style!"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:236
+#: inc/customizer/settings/general/controls.php:285
+msgid ""
+"Control the number of posts, speed, display of title and date on your "
+"related posts carousel."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:237
+#: inc/customizer/settings/general/controls.php:286
+msgid ""
+"Multiple blog layouts are available in the PRO version of Newsmag. That "
+"includes: full-width posts and sidebars on the left."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:238
+msgid "Control the number of posts displayed in the slider widget. "
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:239
+msgid ""
+"Get in-content banner areas - blend your ads with the posts for a better "
+"click-through rate."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:240
+msgid "Theme updates and support for 1 year - included with purchase"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:244
+#: inc/customizer/settings/general/controls.php:267
+#: inc/customizer/settings/general/controls.php:291
+#: inc/customizer/settings/general/controls.php:308
+#: inc/customizer/settings/general/controls.php:327
+msgid "Get the PRO version!"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:258
+msgid "Widget Heading Settings"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:259
+msgid "Widget Paragraph Settings"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:262
+msgid ""
+"The PRO version of NewsMag offers more typography controls. You will be "
+"able to change the font-sizes, line-heights of the selected fonts. Also, "
+"more font families are included in the PRO version of NewsMag."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:301
+msgid "Extra Banner Ads"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:304
+msgid ""
+"The PRO version of Newsmag comes with dedicated banner widgets which you "
+"can place where you want on the homepage."
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:320
+msgid "More Color Options"
+msgstr ""
+
+#: inc/customizer/settings/general/controls.php:323
+msgid ""
+"The PRO version of Newsmag allows for a greater degree of customisability. "
+"Get multiple professionally designed color schemes with the purchase of the "
+"PRO version. "
+msgstr ""
+
+#: inc/customizer/settings/general/panels.php:8
+msgid "Theme options"
+msgstr ""
+
+#: inc/customizer/settings/general/panels.php:17
+#: inc/customizer/settings/general/sections.php:28
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/settings/general/panels.php:26
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer/settings/general/sections.php:6
+msgid "General"
+msgstr ""
+
+#: inc/customizer/settings/general/sections.php:14
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/settings/general/sections.php:21
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/settings/general/sections.php:37
+msgid "Newsmag PRO features"
+msgstr ""
+
+#: inc/notify-system-checks.php:154 inc/notify-system-checks.php:162
+msgid "Install: Widget Importer Exporter Plugin"
+msgstr ""
+
+#: inc/notify-system-checks.php:159
+msgid "Activate: Widget Importer Exporter Plugin"
+msgstr ""
+
+#: inc/notify-system-checks.php:168 inc/notify-system-checks.php:176
+msgid "Install: WordPress Importer"
+msgstr ""
+
+#: inc/notify-system-checks.php:173
+msgid "Activate: WordPress Importer"
+msgstr ""
+
+#: inc/notify-system-checks.php:185 inc/notify-system-checks.php:193
+msgid "Please install the WordPress Importer to create the demo content."
+msgstr ""
+
+#: inc/notify-system-checks.php:190
+msgid "Please activate the WordPress Importer to create the demo content."
+msgstr ""
+
+#: inc/notify-system-checks.php:199 inc/notify-system-checks.php:207
+msgid "Please install the WordPress widget importer to create the demo content"
+msgstr ""
+
+#: inc/notify-system-checks.php:204
+msgid "Please activate the WordPress Widget Importer to create the demo content."
+msgstr ""
+
+#: inc/sidebars.php:8
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/sidebars.php:9
+msgid ""
+"This is the blog sidebar. If you've set a posts page under Settings -> "
+"Reading, that's where your sidebar will be showing up"
+msgstr ""
+
+#: inc/sidebars.php:18
+msgid "Homepage - Header area"
+msgstr ""
+
+#: inc/sidebars.php:19
+msgid "This sidebar holds the header sidebar area on the homepage."
+msgstr ""
+
+#: inc/sidebars.php:28
+msgid "Homepage - Content area"
+msgstr ""
+
+#: inc/sidebars.php:29
+msgid ""
+"The sidebar holds the entire homepage content, place \"Newsmag - Homepage "
+"builder\" widgets here, please consider the column arrangement."
+msgstr ""
+
+#: inc/sidebars.php:39
+msgid "Footer 1"
+msgstr ""
+
+#: inc/sidebars.php:40 inc/sidebars.php:50 inc/sidebars.php:60
+#: inc/sidebars.php:70
+msgid ""
+"This is your footer sidebar. By default, we've defined a maximum of 4 "
+"sidebars but if you want to use less make sure you change the settings in: "
+"Footer -> Footer columns."
+msgstr ""
+
+#: inc/sidebars.php:49
+msgid "Footer 2"
+msgstr ""
+
+#: inc/sidebars.php:59
+msgid "Footer 3"
+msgstr ""
+
+#: inc/sidebars.php:69
+msgid "Footer 4"
+msgstr ""
+
+#: inc/template-tags.php:18
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:42
+msgid "TAGS: "
+msgstr ""
+
+#: inc/theme-setup.php:60
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-setup.php:61
+msgid "Social"
+msgstr ""
+
+#: inc/theme-setup.php:62
+msgid "Copyright"
+msgstr ""
+
+#: inc/theme-setup.php:150
+msgid "Download theme sample data"
+msgstr ""
+
+#: inc/theme-setup.php:151
+msgid "Head over to our website and download the sample content data."
+msgstr ""
+
+#: inc/theme-setup.php:152
+msgid "Posts"
+msgstr ""
+
+#: inc/theme-setup.php:153
+msgid "Widgets"
+msgstr ""
+
+#: inc/theme-setup.php:158
+msgid "Import Sample Data"
+msgstr ""
+
+#: inc/theme-setup.php:159
+msgid "Import Posts"
+msgstr ""
+
+#: inc/theme-setup.php:160
+msgid "Import Widgets"
+msgstr ""
+
+#: inc/theme-setup.php:165
+msgid "Set front page to static"
+msgstr ""
+
+#: inc/theme-setup.php:166
+msgid ""
+"If you just installed Newsmag, and are not able to see the front-page demo, "
+"you need to go to Settings -> Reading , Front page displays and select "
+"\"Static Page\"."
+msgstr ""
+
+#: inc/theme-setup.php:167
+msgid "Set manually"
+msgstr ""
+
+#: inc/theme-setup.php:167
+msgid "Set automatically"
+msgstr ""
+
+#: inc/widgets/homepage_slider/class-widget-newsmag-homepage_slider.php:7
+msgid "Newsmag - Homepage Slider"
+msgstr ""
+
+#: inc/widgets/homepage_slider/class-widget-newsmag-homepage_slider.php:9
+msgid "You can add a fullwidth slider with this widget."
+msgstr ""
+
+#: inc/widgets/homepage_slider/class-widget-newsmag-homepage_slider.php:30
+msgid "Headline"
+msgstr ""
+
+#: inc/widgets/homepage_slider/class-widget-newsmag-homepage_slider.php:37
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:67
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:55
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:54
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:53
+msgid "Category"
+msgstr ""
+
+#: inc/widgets/homepage_slider/class-widget-newsmag-homepage_slider.php:42
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:72
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:60
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:59
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:58
+msgid "&ndash; Select a category &ndash;"
+msgstr ""
+
+#: inc/widgets/homepage_slider/class-widget-newsmag-homepage_slider.php:114
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:289
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:174
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:173
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:171
+msgid "Please configure your widget"
+msgstr ""
+
+#: inc/widgets/homepage_slider/layouts/slider.php:59
+msgid "Today’s  hot  topics"
+msgstr ""
+
+#: inc/widgets/popularposts/class-widget-newsmag-popularposts.php:7
+msgid "Newsmag - Popular Posts"
+msgstr ""
+
+#: inc/widgets/popularposts/class-widget-newsmag-popularposts.php:9
+msgid "Displays posts with most comments."
+msgstr ""
+
+#: inc/widgets/popularposts/class-widget-newsmag-popularposts.php:21
+msgid "Popular posts"
+msgstr ""
+
+#: inc/widgets/popularposts/class-widget-newsmag-popularposts.php:98
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/popularposts/class-widget-newsmag-popularposts.php:106
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:11
+msgid "Newsmag - Posts Column"
+msgstr ""
+
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:13
+msgid ""
+"Layout consists of a featured post thumbnail, followed by a handful of "
+"posts that are smaller in size. Perfect for emphasising important news."
+msgstr ""
+
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:60
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:48
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:47
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:46
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:85
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:72
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:71
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:70
+msgid "Posts to Show"
+msgstr ""
+
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:120
+msgid "Featured article"
+msgstr ""
+
+#: inc/widgets/posts_column/class-widget-newsmag-posts_column.php:135
+msgid "Show Date and Comments"
+msgstr ""
+
+#: inc/widgets/posts_column/layouts/posts_column.php:69
+#: inc/widgets/posts_column/layouts/posts_column_featured.php:65
+#: inc/widgets/posts_column/layouts/posts_column_featured.php:123
+#: inc/widgets/posts_grid/layouts/posts_grid.php:67
+#: inc/widgets/posts_list_horizontal/layouts/posts_list_horizontal.php:68
+#: inc/widgets/posts_list_vertical/layouts/posts_list_vertical.php:72
+#: template-parts/content.php:65 template-parts/content.php:116
+msgid "Edit"
+msgstr ""
+
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:12
+msgid "Newsmag - Posts Grid"
+msgstr ""
+
+#: inc/widgets/posts_grid/class-widget-newsmag-posts_grid.php:14
+msgid "Posts are displayed next to each other in a grid-like fashion."
+msgstr ""
+
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:10
+msgid "Newsmag - Posts List Horizontal"
+msgstr ""
+
+#: inc/widgets/posts_list_horizontal/class-widget-newsmag-posts_list_horizontal.php:12
+msgid ""
+"Images followed by their title. Very useful when used in pairs of 8 or more "
+"to draw attention to a selection of posts."
+msgstr ""
+
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:10
+msgid "Newsmag - Posts List Vertical"
+msgstr ""
+
+#: inc/widgets/posts_list_vertical/class-widget-newsmag-posts_list_vertical.php:12
+msgid ""
+"Very similar to the blog layout. It's a versatile layout that can be "
+"displayed side-by-side to the Posts Column widget to create a great content "
+"combination."
+msgstr ""
+
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/banner/banner-adsense.php:16
+msgid "Loading"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "NewsMag"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://www.machothemes.com/newsmag-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Newsmag is a clean and modern magazine, news or blog WordPress theme for "
+"magazines, news websites, blogs and others. It have 4 different blog page "
+"style. It is will make your website adaptable with any type of mobile "
+"devices. Your site will be adaptive when viewed on a smartphone or tablet. "
+"Fully Responsive, Customizable and Search Engine ( SEO ) Friendly Friendly "
+"WordPress Theme using Twitter Bootstrap 3, Microformats and Font Awesome "
+"icons. You can add Contact Form and Google Maps to contact page. You can "
+"also build custom front page to use 3 different block styles, post banner "
+"and slider as unlimited. The theme offers Widgetized Sidebar, four column "
+"Footer Widgets. You can add unlimted Widgets in each Sidebar and Footer "
+"Column. Theme Features: Advanced Custom Fields, Contact Form, Custom Front "
+"Page Settings, Custom Background Support, Custom Menu ( 3 Level on Header, "
+"1 Level on footer ), Custom Colors, Google Fonts, Dynamic Widgets, Slider ( "
+"Responsive and Mobile Touch Friendly ), Featured Post Banner, Different "
+"Blog Page and Homepage Style, Redux Framework, Post Formats, Microformats, "
+"Responsive Video,    Popular Posts Widgets. To learn more about the theme "
+"please go to the theme uri and read the documentation."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "MachoThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.machothemes.com/"
+msgstr ""
+
+#: archive.php:27
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: archive.php:29
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""

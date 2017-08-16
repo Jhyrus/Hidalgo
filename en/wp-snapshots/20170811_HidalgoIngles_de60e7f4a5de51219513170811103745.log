@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-08-11 10:38:24
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.8.1
+PHP INFO:	7.0.22-0ubuntu0.16.04.1 | SAPI: cgi-fcgi
+SERVER:		Apache/2.4.18 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 2MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:25 | filtered:0 | create:25 
+FILTERED: [] 
+SQL CREATED: 20170811_HidalgoIngles_de60e7f4a5de51219513170811103745_database.sql 
+SQL FILE SIZE: 5.1MB (5350664) 
+SQL FILE TIME: 2017-08-11 10:38:24 
+SQL RUNTIME: 0.19 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /var/www/clients/client2/web2/web/en 
+ARCHIVE FILE: 20170811_HidalgoIngles_de60e7f4a5de51219513170811103745_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	142.09MB 
+STATS:	Dirs 1,170 | Files 9,188 
+SQL ADDED: 20170811_HidalgoIngles_de60e7f4a5de51219513170811103745_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10358
+    [filename] => /var/www/clients/client2/web2/web/en/wp-snapshots/tmp/20170811_HidalgoIngles_de60e7f4a5de51219513170811103745_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 75.57MB 
+ARCHIVE RUNTIME: 15.17 sec. 
+MEMORY STACK: 6MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/var/www/clients/client2/web2/web/en/wp-snapshots/tmp/20170811_HidalgoIngles_de60e7f4a5de51219513170811103745_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 5.1MB 
+Installer File: 428.46KB 
+Archive File: 75.57MB  
+
+********************************************************************************
+RECORD ID:[3]
+TOTAL PROCESS RUNTIME: 15.86 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20170811_HidalgoIngles 2017-08-11 10:38:40
+ 

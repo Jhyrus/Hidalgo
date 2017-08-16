@@ -1,0 +1,10 @@
+			@font-face {
+				font-family: 'century-gothic';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/170314044323Century-Gothic.eot');
+				src: local('century-gothic'), url('/wp-content/uploads/useanyfont/170314044323Century-Gothic.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/170314044323Century-Gothic.woff') format('woff');
+			}
+            
+            .century-gothic{font-family: 'century-gothic' !important;}
+            
+		

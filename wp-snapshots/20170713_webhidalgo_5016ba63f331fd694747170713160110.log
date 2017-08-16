@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-07-13 16:09:11
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.7.5
+PHP INFO:	7.0.18-0ubuntu0.16.04.1 | SAPI: apache2handler
+SERVER:		Apache/2.4.18 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (256M default) 
+MEMORY STACK: 6MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:25 | filtered:0 | create:25 
+FILTERED: [] 
+SQL CREATED: 20170713_webhidalgo_5016ba63f331fd694747170713160110_database.sql 
+SQL FILE SIZE: 4.52MB (4739347) 
+SQL FILE TIME: 2017-07-13 16:09:12 
+SQL RUNTIME: 0.29 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /var/www/html 
+ARCHIVE FILE: 20170713_webhidalgo_5016ba63f331fd694747170713160110_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	164.44MB 
+STATS:	Dirs 1,331 | Files 9,771 
+SQL ADDED: 20170713_webhidalgo_5016ba63f331fd694747170713160110_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 11102
+    [filename] => /var/www/html/wp-snapshots/tmp/20170713_webhidalgo_5016ba63f331fd694747170713160110_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 92.04MB 
+ARCHIVE RUNTIME: 23.24 sec. 
+MEMORY STACK: 10MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/var/www/html/wp-snapshots/tmp/20170713_webhidalgo_5016ba63f331fd694747170713160110_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 4.52MB 
+Installer File: 428.4KB 
+Archive File: 92.04MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 24.32 sec.
+PEAK PHP MEMORY USED: 12MB
+DONE PROCESSING => 20170713_webhidalgo 2017-07-13 16:09:36
+ 
